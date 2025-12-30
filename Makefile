@@ -1,4 +1,4 @@
-APP_NAME=go-ruler
+APP_NAME=ai-ruler
 BUILD_DIR=.build
 DIST_DIR=$(BUILD_DIR)/dist
 LDFLAGS=-s -w

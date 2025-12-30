@@ -1,4 +1,4 @@
-module github.com/rahmatrdn/go-ruler
+module github.com/rahmatrdn/ai-ruler
 
 go 1.25.4
 

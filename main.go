@@ -1,6 +1,6 @@
 package main
 
-import "github.com/rahmatrdn/go-ruler/cmd"
+import "github.com/rahmatrdn/ai-ruler/cmd"
 
 func main() {
 	cmd.Execute()

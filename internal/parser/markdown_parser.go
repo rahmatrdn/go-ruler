@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"strings"
 
-	"github.com/rahmatrdn/go-ruler/internal/model"
+	"github.com/rahmatrdn/ai-ruler/internal/model"
 )
 
 type MarkdownParser struct{}
