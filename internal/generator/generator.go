@@ -1,6 +1,6 @@
 package generator
 
-import "github.com/rahmatrdn/ai-guidelines-generator/internal/model"
+import "github.com/rahmatrdn/go-ruler/internal/model"
 
 type Generator interface {
 	Generate(g *model.Guidelines) (string, error)

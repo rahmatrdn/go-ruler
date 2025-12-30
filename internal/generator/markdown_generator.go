@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rahmatrdn/ai-guidelines-generator/internal/model"
+	"github.com/rahmatrdn/go-ruler/internal/model"
 )
 
 type MarkdownGenerator struct {

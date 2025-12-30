@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/rahmatrdn/ai-guidelines-generator/internal/generator"
-	"github.com/rahmatrdn/ai-guidelines-generator/internal/parser"
+	"github.com/rahmatrdn/go-ruler/internal/generator"
+	"github.com/rahmatrdn/go-ruler/internal/parser"
 	"github.com/spf13/cobra"
 )
 
